@@ -1,0 +1,198 @@
+* { 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button-line { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+.copyright-line { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+.footer-div { 
+    font-size: small;
+}
+
+
+.conditions-of-use { 
+    padding-right: 20px;
+}
+
+.privacy-policy { 
+    padding-right: 20px;
+}
+
+.create-account-button { 
+    background-color: lightgrey;
+    border-radius: 3px;
+    border-color: #adb1b8 #a2a6ac #8d9096;
+    border-style: solid;
+    border-width: 1px;
+    width: 327px;
+    height: 29px;
+}
+
+.create-account-div { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+.new-to-amazon-text { 
+    color: gray;
+}
+
+.new-to-amazon-div { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+.main-box { 
+    border: 1px solid lightgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+} 
+
+.need-help-text { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    font-size: small;
+}
+
+.need-help-div { 
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-content: left;
+    padding-left: 40px;
+}
+.parent-box-div { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+.continue-button { 
+    background-color: #f0c14b;
+    border-radius: 3px;
+    border-color: #a88734 #9c7e31 #846a29;
+    border-style: solid;
+    border-width: 1px;
+    width: 327px;
+    height: 29px;
+}
+
+.continue-button-div { 
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.enter-password { 
+    width: 320px;
+    height: 29px;
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: lightgray;
+}
+
+.password-field-div { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.password-line-div { 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    padding-right: 20px;
+    padding-left: 60px; 
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    height: 35px;
+}
+
+.enter-email { 
+    width: 320px;
+    height: 29px;
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: lightgray;
+}
+
+.email-field-div { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.password-text { 
+    font-size: small;
+}
+
+.forgot-password-text { 
+    font-size: small;
+    text-decoration: none;
+
+} 
+ 
+.email-text { 
+    font-size: small;
+}
+
+.email-line-div { 
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-content: left;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-left: 20px;
+    height: 35px;
+}
+
+.sign-in-div { 
+    padding-left: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    height: 25px;
+}
+
+.sign-in-text { 
+    font-size: larger;
+    font-weight: 300;
+    line-height: 0px;
+}
+
+a:link { 
+    text-decoration: none;
+}
+
+a:visited { 
+    color: purple
+}
